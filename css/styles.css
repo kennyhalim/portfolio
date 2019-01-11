@@ -1,0 +1,32 @@
+body {
+  background-color: #FFEBCD;
+  font-family: 'Playfair Display';
+}
+
+.jumbotron h2 {
+  text-align: center;
+  font-weight:bold;
+  font-size:40px;
+}
+
+#img1 img {
+  width:358px;
+  height:178px;
+  padding-left: 80px;
+}
+
+#aboutme {
+  padding-top: 40px;
+  text-align: center;
+}
+
+#facts {
+  padding-right:80px;
+}
+#facts .bgcolor {
+  background-color: #FFCC99;
+}
+
+#facts .panelfacts {
+  background-color: #D2B48C;
+}
