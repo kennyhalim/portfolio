@@ -23,10 +23,100 @@ body {
 #facts {
   padding-right:80px;
 }
-#facts .bgcolor {
+#facts .bg1 {
   background-color: #FFCC99;
 }
 
 #facts .panelfacts {
   background-color: #D2B48C;
+}
+
+#facts h2 {
+  font-weight:bold;
+}
+
+#kheducation {
+  padding-left:90px
+}
+#kheducation .panel{
+  border-radius: 0px;
+}
+
+#kheducation .bg2 {
+  background-color: #FFCC99;
+}
+
+#kheducation .panelbg {
+  background-color: #382E1C;
+}
+
+#kheducation .panel-heading {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+#kheducation h2 {
+  color:white;
+  text-align: center;
+}
+
+#kheducation ul {
+  list-style-type: square;
+  font-size:15px;
+}
+
+#khjob {
+  padding-right:90px
+}
+#khjob .panel{
+  border-radius: 0px;
+}
+
+#khjob .bg2 {
+  background-color: #FFCC99;
+}
+
+#khjob .panelbg {
+  background-color: #382E1C;
+}
+
+#khjob .panel-heading {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+#khjob h2 {
+  color:white;
+  text-align: center;
+}
+
+#khjob ul {
+  list-style-type: square;
+  font-size:15px;
+}
+
+.projects {
+  padding-left: 75px;
+  padding-right: 75px;
+}
+.projects .panelpro {
+  background-color: #D2B48C;
+}
+
+.projects .bg3 {
+  background-color: white;
+  font-size:15px;
+}
+
+.projects h2 {
+  text-align:center;
+  font-size:20px;
+  font-weight: bold;
+}
+
+.quote {
+  font-size:14px;
+  padding-right:90px;
+  float:right;
+  text-align: right;
 }
