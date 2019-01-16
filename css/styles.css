@@ -104,7 +104,7 @@ body {
 }
 
 .projects .bg3 {
-  background-color: white;
+  background-color: #FFCC99;
   font-size:15px;
 }
 
@@ -119,4 +119,16 @@ body {
   padding-right:90px;
   float:right;
   text-align: right;
+}
+
+.clickable, .clickable1, .clickable2{
+  cursor: pointer;
+}
+
+.clickable:hover, .clickable1:hover, .clickable2:hover{
+  text-decoration: underline;
+}
+
+.education-hidden, .jobs-hidden, .proj-hidden{
+  display:none;
 }
