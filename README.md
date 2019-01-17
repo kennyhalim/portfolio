@@ -20,6 +20,7 @@ _Feel free to use this code, contact me at kennyhalim98@gmail.com_
 * _Bootstrap_
 * _Atom_
 * _Command prompt_
+*_[Open in your browser](https://kennyhalim.github.io/portfolio)_
 
 ### License
 MIT
